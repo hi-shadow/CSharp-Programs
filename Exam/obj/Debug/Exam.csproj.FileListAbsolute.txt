@@ -1,0 +1,13 @@
+E:\C# Windows Programming\Exam\bin\Debug\ExamDB.mdf
+E:\C# Windows Programming\Exam\bin\Debug\ExamDB_log.ldf
+E:\C# Windows Programming\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+E:\C# Windows Programming\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\Exam\obj\Debug\Exam.Form1.resources
+E:\C# Windows Programming\Exam\obj\Debug\Exam.Properties.Resources.resources
+E:\C# Windows Programming\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+E:\C# Windows Programming\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+E:\C# Windows Programming\Exam\obj\Debug\Exam.exe
+E:\C# Windows Programming\Exam\obj\Debug\Exam.pdb
+E:\C# Windows Programming\Exam\bin\Debug\Exam.exe.config
+E:\C# Windows Programming\Exam\bin\Debug\Exam.exe
+E:\C# Windows Programming\Exam\bin\Debug\Exam.pdb

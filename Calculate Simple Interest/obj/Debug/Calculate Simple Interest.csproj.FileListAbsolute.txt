@@ -1,0 +1,11 @@
+E:\C# Windows Programming\Calculate Simple Interest\bin\Debug\Calculate Simple Interest.exe.config
+E:\C# Windows Programming\Calculate Simple Interest\bin\Debug\Calculate Simple Interest.exe
+E:\C# Windows Programming\Calculate Simple Interest\bin\Debug\Calculate Simple Interest.pdb
+E:\C# Windows Programming\Calculate Simple Interest\obj\Debug\Calculate Simple Interest.csproj.AssemblyReference.cache
+E:\C# Windows Programming\Calculate Simple Interest\obj\Debug\Calculate Simple Interest.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\Calculate Simple Interest\obj\Debug\Calculate_Simple_Interest.Form1.resources
+E:\C# Windows Programming\Calculate Simple Interest\obj\Debug\Calculate_Simple_Interest.Properties.Resources.resources
+E:\C# Windows Programming\Calculate Simple Interest\obj\Debug\Calculate Simple Interest.csproj.GenerateResource.cache
+E:\C# Windows Programming\Calculate Simple Interest\obj\Debug\Calculate Simple Interest.csproj.CoreCompileInputs.cache
+E:\C# Windows Programming\Calculate Simple Interest\obj\Debug\Calculate Simple Interest.exe
+E:\C# Windows Programming\Calculate Simple Interest\obj\Debug\Calculate Simple Interest.pdb

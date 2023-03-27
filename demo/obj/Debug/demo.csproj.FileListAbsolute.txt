@@ -1,0 +1,11 @@
+E:\C# Windows Programming\demo\bin\Debug\demo.exe.config
+E:\C# Windows Programming\demo\bin\Debug\demo.exe
+E:\C# Windows Programming\demo\bin\Debug\demo.pdb
+E:\C# Windows Programming\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+E:\C# Windows Programming\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\demo\obj\Debug\demo.Form1.resources
+E:\C# Windows Programming\demo\obj\Debug\demo.Properties.Resources.resources
+E:\C# Windows Programming\demo\obj\Debug\demo.csproj.GenerateResource.cache
+E:\C# Windows Programming\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+E:\C# Windows Programming\demo\obj\Debug\demo.exe
+E:\C# Windows Programming\demo\obj\Debug\demo.pdb

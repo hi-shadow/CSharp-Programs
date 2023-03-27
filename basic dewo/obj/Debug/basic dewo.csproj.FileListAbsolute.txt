@@ -1,0 +1,11 @@
+E:\C# Windows Programming\basic dewo\bin\Debug\basic dewo.exe.config
+E:\C# Windows Programming\basic dewo\bin\Debug\basic dewo.exe
+E:\C# Windows Programming\basic dewo\bin\Debug\basic dewo.pdb
+E:\C# Windows Programming\basic dewo\obj\Debug\basic dewo.csproj.AssemblyReference.cache
+E:\C# Windows Programming\basic dewo\obj\Debug\basic dewo.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\basic dewo\obj\Debug\basic_dewo.Form1.resources
+E:\C# Windows Programming\basic dewo\obj\Debug\basic_dewo.Properties.Resources.resources
+E:\C# Windows Programming\basic dewo\obj\Debug\basic dewo.csproj.GenerateResource.cache
+E:\C# Windows Programming\basic dewo\obj\Debug\basic dewo.csproj.CoreCompileInputs.cache
+E:\C# Windows Programming\basic dewo\obj\Debug\basic dewo.exe
+E:\C# Windows Programming\basic dewo\obj\Debug\basic dewo.pdb

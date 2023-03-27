@@ -1,0 +1,6 @@
+E:\C# Windows Programming\LIztBox Demo\obj\Debug\LIztBox Demo.csproj.AssemblyReference.cache
+E:\C# Windows Programming\LIztBox Demo\obj\Debug\LIztBox Demo.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\LIztBox Demo\obj\Debug\LIztBox_Demo.Form1.resources
+E:\C# Windows Programming\LIztBox Demo\obj\Debug\LIztBox_Demo.Properties.Resources.resources
+E:\C# Windows Programming\LIztBox Demo\obj\Debug\LIztBox Demo.csproj.GenerateResource.cache
+E:\C# Windows Programming\LIztBox Demo\obj\Debug\LIztBox Demo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+E:\C# Windows Programming\1sr button Demo\bin\Debug\1sr button Demo.exe.config
+E:\C# Windows Programming\1sr button Demo\bin\Debug\1sr button Demo.exe
+E:\C# Windows Programming\1sr button Demo\bin\Debug\1sr button Demo.pdb
+E:\C# Windows Programming\1sr button Demo\obj\Debug\1sr button Demo.csproj.AssemblyReference.cache
+E:\C# Windows Programming\1sr button Demo\obj\Debug\1sr button Demo.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\1sr button Demo\obj\Debug\_1sr_button_Demo.Form1.resources
+E:\C# Windows Programming\1sr button Demo\obj\Debug\_1sr_button_Demo.Properties.Resources.resources
+E:\C# Windows Programming\1sr button Demo\obj\Debug\1sr button Demo.csproj.GenerateResource.cache
+E:\C# Windows Programming\1sr button Demo\obj\Debug\1sr button Demo.csproj.CoreCompileInputs.cache
+E:\C# Windows Programming\1sr button Demo\obj\Debug\1sr button Demo.exe
+E:\C# Windows Programming\1sr button Demo\obj\Debug\1sr button Demo.pdb

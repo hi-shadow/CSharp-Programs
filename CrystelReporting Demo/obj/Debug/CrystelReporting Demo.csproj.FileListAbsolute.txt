@@ -1,0 +1,11 @@
+E:\C# Windows Programming\CrystelReporting Demo\bin\Debug\CrystelReporting Demo.exe.config
+E:\C# Windows Programming\CrystelReporting Demo\bin\Debug\CrystelReporting Demo.exe
+E:\C# Windows Programming\CrystelReporting Demo\bin\Debug\CrystelReporting Demo.pdb
+E:\C# Windows Programming\CrystelReporting Demo\obj\Debug\CrystelReporting Demo.csproj.AssemblyReference.cache
+E:\C# Windows Programming\CrystelReporting Demo\obj\Debug\CrystelReporting Demo.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\CrystelReporting Demo\obj\Debug\CrystelReporting_Demo.Form1.resources
+E:\C# Windows Programming\CrystelReporting Demo\obj\Debug\CrystelReporting_Demo.Properties.Resources.resources
+E:\C# Windows Programming\CrystelReporting Demo\obj\Debug\CrystelReporting Demo.csproj.GenerateResource.cache
+E:\C# Windows Programming\CrystelReporting Demo\obj\Debug\CrystelReporting Demo.csproj.CoreCompileInputs.cache
+E:\C# Windows Programming\CrystelReporting Demo\obj\Debug\CrystelReporting Demo.exe
+E:\C# Windows Programming\CrystelReporting Demo\obj\Debug\CrystelReporting Demo.pdb

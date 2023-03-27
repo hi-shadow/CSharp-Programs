@@ -1,0 +1,11 @@
+E:\C# Windows Programming\TimerDemo\bin\Debug\TimerDemo.exe.config
+E:\C# Windows Programming\TimerDemo\bin\Debug\TimerDemo.exe
+E:\C# Windows Programming\TimerDemo\bin\Debug\TimerDemo.pdb
+E:\C# Windows Programming\TimerDemo\obj\Debug\TimerDemo.csproj.AssemblyReference.cache
+E:\C# Windows Programming\TimerDemo\obj\Debug\TimerDemo.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\TimerDemo\obj\Debug\TimerDemo.Form1.resources
+E:\C# Windows Programming\TimerDemo\obj\Debug\TimerDemo.Properties.Resources.resources
+E:\C# Windows Programming\TimerDemo\obj\Debug\TimerDemo.csproj.GenerateResource.cache
+E:\C# Windows Programming\TimerDemo\obj\Debug\TimerDemo.csproj.CoreCompileInputs.cache
+E:\C# Windows Programming\TimerDemo\obj\Debug\TimerDemo.exe
+E:\C# Windows Programming\TimerDemo\obj\Debug\TimerDemo.pdb

@@ -1,0 +1,11 @@
+E:\C# Windows Programming\ValueSwap\bin\Debug\ValueSwap.exe.config
+E:\C# Windows Programming\ValueSwap\bin\Debug\ValueSwap.exe
+E:\C# Windows Programming\ValueSwap\bin\Debug\ValueSwap.pdb
+E:\C# Windows Programming\ValueSwap\obj\Debug\ValueSwap.csproj.AssemblyReference.cache
+E:\C# Windows Programming\ValueSwap\obj\Debug\ValueSwap.csproj.SuggestedBindingRedirects.cache
+E:\C# Windows Programming\ValueSwap\obj\Debug\ValueSwap.Form1.resources
+E:\C# Windows Programming\ValueSwap\obj\Debug\ValueSwap.Properties.Resources.resources
+E:\C# Windows Programming\ValueSwap\obj\Debug\ValueSwap.csproj.GenerateResource.cache
+E:\C# Windows Programming\ValueSwap\obj\Debug\ValueSwap.csproj.CoreCompileInputs.cache
+E:\C# Windows Programming\ValueSwap\obj\Debug\ValueSwap.exe
+E:\C# Windows Programming\ValueSwap\obj\Debug\ValueSwap.pdb
